@@ -1,6 +1,6 @@
 # BubbleRouge
 
 2024.9.30
-Platform: Unity __
-Elements: rouge + coop + soft "chained" + puzzle solvings __
-Goal: Nine Parchments, Trine, Chained together, Survivors series __
+Platform: Unity <br />
+Elements: rouge + coop + soft "chained" + puzzle solvings <br />
+Goal: Nine Parchments, Trine, Chained together, Survivors series <br />
